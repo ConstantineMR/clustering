@@ -1,0 +1,13 @@
+This is k-means with k = 10:
+	silhouette score = 0.09340081
+	calinski harabasz score = 2746.7159890910148
+	davies bouldin score = 2.5080728392749614
+This is Agglomerative with k = 5 by adding to results before:
+	silhouette score = 0.025613934
+	calinski harabasz score = 773.2098246871395
+	davies bouldin score = 2.6946719491739315
+[1, 4, 0, 2, 0, 2, 3, 3, 0, 1]
+This is Agglomerative with k = 5 by using center of clusters:
+	silhouette score = 0.15397047
+	calinski harabasz score = 4527.089977271209
+	davies bouldin score = 1.9370681070414577
